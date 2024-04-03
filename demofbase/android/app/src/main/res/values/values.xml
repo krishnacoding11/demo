@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApp</string>
+    <color name="primary_color">#FF4081</color>
+    <dimen name="margin_large">16dp</dimen>
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Define styles here -->
+    </style>
+    <!-- Other resource definitions -->
+</resources>
